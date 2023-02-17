@@ -19,7 +19,7 @@ Steps you need to take to creating a project.
   6. Block Diagram of system/infrastructure.
 * LOW LEVEL DESIGN :
   1. Custom Architecture.
-  ![alt text](./Flowchart/project_Style.png?raw=true)
+  ![alt text](https://user-images.githubusercontent.com/31642776/219688026-98ad2186-75a4-4897-8d7d-e4ba7e14506c.png)
 - ARCHITECTURE
 - WIREFRAME
 - KPI
